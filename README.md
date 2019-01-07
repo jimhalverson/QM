@@ -10,7 +10,7 @@ Phone: 617-373-2957
 
 Office Hours: MR 9:00-10:30  Dana 226
 
-Grader: Jiahua Tian, tian.jiah@husky.neu.edu
+Grader: Anindita Maiti (maiti.a@husky.neu.edu) and Jiahua Tian (tian.jiah@husky.neu.edu) 
 
 
 > "*Quantum mechanics is the description of the behavior of matter and light in all its details and, in particular, of the happenings on an atomic scale. Things on a very small scale behave like nothing that you have any direct experience about. They do not behave like waves, they do not behave like particles, they do not behave like clouds, or billiard balls, or weights on springs, or like anything that you have ever seen.*" - [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman). See [here](http://www.feynmanlectures.caltech.edu/III_01.html) for more.
@@ -59,7 +59,8 @@ are fun and students often find them helpful!
  material, since it may appear on the midterm or final exam. You may
  discuss the assignments with your classmates, but the work you submit
  must be your own. Homework questions will not be answered via e-mail; please
- come to office hours.
+ come to office hours. Questions regarding homework grading should be directed
+ to both graders via e-mail.
 
 **Midterm:** There will be an in-class midterm on February 14 that may test any of the material from homework or class up to that date.
 
