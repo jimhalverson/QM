@@ -8,7 +8,7 @@ E-mail: j.halverson@northeastern.edu
 
 Phone: 617-373-2957
 
-Office Hours: MR 9:00-10:30  Dana 226
+Office Hours: MR 8:30-10:00  Dana 226
 
 Grader: Anindita Maiti (maiti.a@husky.neu.edu) and Jiahua Tian (tian.jiah@husky.neu.edu) 
 
