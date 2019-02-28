@@ -24,7 +24,8 @@ Due: Feb 25, beginning of class
 
 # Homework 5
 
-Due: March 14 
+Due: March 14, beginning of class
+
 6.2, 6.6, 6.13, 6.14
 
 # Remaining problems
