@@ -14,19 +14,25 @@ Problems: 2.23, 2.24, 3.1, 3.2, 3.7, 3.11, 3.20, 3.27
 
 Due: Feb 11, beginning of class
 
-4.3, 4.5, 4.7, 4.11, 4.13
+Problems: 4.3, 4.5, 4.7, 4.11, 4.13
 
 # Homework 4
 
 Due: Feb 25, beginning of class
 
-5.3, 5.5, 5.6, 5.7
+Problems: 5.3, 5.5, 5.6, 5.7
 
 # Homework 5
 
 Due: March 14, beginning of class
 
-6.2, 6.6, 6.13, 6.14
+Problems: 6.2, 6.6, 6.13, 6.14
+
+# Homework 6
+
+Problems: 7.4, 7.9, 7.10, 7.17, 7.24
+
+Due: March 25, beginning of class
 
 # Remaining problems
 
@@ -34,4 +40,4 @@ Some students have asked if I could list the homework a little further ahead of 
 Here are the problems that I plan to assign for the rest of the semester. I will assign them to due dates once it is clear
 when they should be due, based on how we progress in class.
 
-7.4, 7.9, 7.10, 7.17, 7.24, 10.3, 10.5, 10.7, 10.17, 11.3, 11.6, 11.10, 11.11, 11.16, 11.17
+10.3, 10.5, 10.7, 10.17, 11.3, 11.6, 11.10, 11.11, 11.16, 11.17
