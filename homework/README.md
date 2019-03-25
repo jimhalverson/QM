@@ -34,10 +34,14 @@ Problems: 7.4, 7.9, 7.10, 7.17, 7.24
 
 Due: March 25, beginning of class
 
-# Remaining problems
+# Homework 7
 
-Some students have asked if I could list the homework a little further ahead of time, to help them in their planning.
-Here are the problems that I plan to assign for the rest of the semester. I will assign them to due dates once it is clear
-when they should be due, based on how we progress in class.
+Problems: 10.3, 10.5, 10.7, 10.17
 
-10.3, 10.5, 10.7, 10.17, 11.3, 11.6, 11.10, 11.11, 11.16, 11.17
+Due: April 4, beginning of class
+
+# Homework 8
+
+Problems: 11.3, 11.6, 11.10, 11.11, 11.16, 11.17
+
+Due: April 11, beginning of class
